@@ -1,1 +1,0 @@
-Ouvrir index.html. Le visuel est exactement l’image validée, avec des zones cliquables transparentes sur les boutons. Le bouton Ajouter aux contacts ouvre le fichier .vcf. Pour créer un QR code universel, publier ce dossier sur GitHub Pages puis utiliser l’adresse du site. Les liens de réseaux sociaux sont actifs. Ne pas renommer les fichiers.
